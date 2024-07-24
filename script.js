@@ -455,9 +455,7 @@ let pageObjects = [
     {
         name: "welcome",
         title: "Kuduz Profilaksi Algoritması",
-        par: `Uygun seçeneklere tıklayarak ilerleyiniz.
-        Yukarıdaki başlığa tıklayarak, ilgili notu görebilirsiniz.
-        En üstteki menüden iste aşı doz tarihlerini görebilir, Ig dozu hesaplayabilir veya ek bilgi edinebilirsiniz.`,
+        par: `Uygun seçeneklere tıklayarak ilerleyiniz.`,
         note: `İlk sayfada not yok :P`,
         meta: {
             fns: [
