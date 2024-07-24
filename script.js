@@ -281,7 +281,7 @@ let pageObjects = [
         name: "resultNoProphylaxis",
         title: "Son",
         // par: "Sona ulaştınız. Kuduz profilaksisi tamamlandı.",
-        par: "BİTTİ: Ek aşı ve Ig ihtiyacı yok :)",
+        par: "BİTTİ: Ek Kuduz Aşısı ve Ig ihtiyacı yok :)\n\n Yara bakımı, AB profilaksisi, Tetanoz aşısı açısından değerlendirmeyi unutmayın!  ",
         note: `Profilaksi gerektirmeyen durumlarda da (insan ısırıkları dahil) yara temizliği, antibiyotik tedavisi, tetanoz profilaksisi gibi ihtiyaç duyulan tedavi yaklaşımları ihmal edilmemelidir.\nKuduz profilaksisi uygulansın ya da uygulanmasın tüm kuduz riskli temaslar mutlaka kayıt altına alınmalıdır.`,
         paths: [],
         meta: { result: true },
