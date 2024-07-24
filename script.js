@@ -297,7 +297,7 @@ let pageObjects = [
     {
         name: "resultVacc2dose",
         title: "2 doz aşı",
-        par: "Toplam 2 doz aşı uygula (0. ve 3. günlerde)",
+        par: "Toplam 2 doz aşı uygula (0. ve 3. günlerde). Ig gerekli değil.",
         note: `Daha önce, herhangi bir nedenle (temas öncesi veya temas sonrası profilaksi) hücre kültür aşılarıyla tam doz  aşılaması yapılan sağlıklı kişilere (geçen süreye bakılmaksızın),\nEn az iki aralıklı doz yapılmış olan ve bunu belgeleyen immün sistemi normal bireylere\n aşılama 0. ve 3. günde olmak üzere toplam iki doz aşı yapılır. İmmünglobülin yapmaya gerek yoktur.\nGeliştirici Notu: 3 doz da tam sayılıyor, bkz. sss`,
         paths: [],
         meta: { result: true },
